@@ -26,6 +26,9 @@
       "scripthost"
     ]
   },
+  "files": [
+    "src/main.ts",
+  ],
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
